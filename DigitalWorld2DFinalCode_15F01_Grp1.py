@@ -2,12 +2,7 @@
 # Digital World 2D
 # Maze Level 2 (Actual)
 #
-# 15FO1 Group 1
-# Daniel Yong Kaijie
-# Heng Xian Jing
-# Jesandry
 # Keong Jo Hsi
-# Soo Kai Leng
 #
 
 import json
